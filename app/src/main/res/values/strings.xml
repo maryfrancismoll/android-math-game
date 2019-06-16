@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kids Learn Math</string>
+    <string name="app_title">Kids Learn Math</string>
+    <string name="learn_addition">Learn Addition</string>
+    <string name="learn_subtraction">Learn Subtraction</string>
+    <string name="learn_multiplication">Learn Multiplication</string>
+    <string name="leanr_division">Learn Division</string>
+    <string name="find_level">Find My Level</string>
+    <string name="about">About</string>
+    <string name="creator">Created by</string>
+</resources>
